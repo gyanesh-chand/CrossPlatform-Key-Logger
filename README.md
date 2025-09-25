@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <br>
-  CrossPlatform Key Logger
+  CrossPlatform Key 🔑 Logger
   <br>  
 </h1>
 
