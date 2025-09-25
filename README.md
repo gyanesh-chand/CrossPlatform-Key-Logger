@@ -29,42 +29,16 @@ Capture and log keyboard input locally on your own machine for learning and auto
 ### Installation to Windows:
 
 ```bash
-git clone https://github.com/De3vil/KLogger.git
-cd KLogger
+git clone https://github.com/gyanesh-chand/CrossPlatform-Key-Logger.git
+cd CrossPlatform-Key-Logger
 pip install -r win_requirements.txt
-python logger.py
+python KeyLogger.py
 ```
 ### Installation to Linux 
 ```bash
-git clone https://github.com/De3vil/KLogger.git
-cd KLogger
+git clone https://github.com/gyanesh-chand/CrossPlatform-Key-Logger.git
+cd CrossPlatform-Key-Logger
 chmod +x linux_setup.sh
 bash linux_setup.sh
-python logger.py
+python KeyLogger.py
 ```
-### warning:
-```bash
-* Don't Upload in VirusTotal.com Bcz This tool will not work with Time.
-* Virustotal Share Signatures With AV Comapnies.
-* Again Don't be an Idiot!
-```
-
-
-## AV detection
-![](src/AV.png)
-
-![](src/1.png)
-
-***
-<h4> Abdulrahman Mohammed </h4>
-  <a href="https://t.me/De3vil_3">
-     <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Telegram&logoColor=00AEFF&labelColor=black&color=black">
-</a>
-  <a href="https://www.facebook.com/De3vil.3">
-     <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-
-
-If this tool has been useful for you, feel free to thank me by buying me a coffee :)
-[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/De3vil)
- [![B De3vil](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.paypal.com/paypalme/De3vil01)
