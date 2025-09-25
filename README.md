@@ -1,23 +1,22 @@
 <h1 align="center">
   <br>
   <br>
-  K🔑Logger v3.0.0
+  CrossPlatform Key Logger
   <br>  
 </h1>
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-mido--de3vil-orange">
+  <img src="https://img.shields.io/badge/Author-gyanesh-chand-orange">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
 
 ### Description
-Remote persistent 🔑Logger for Windows and Linux
+Capture and log keyboard input locally on your own machine for learning and automation purposes. Works on Windows and Linux. Safe, minimal, and perfect for experimentation.
 ### Features
 - Logs keys pressed on keyboard
-- upload reports in [anonfile](https://anonfiles.com/).
 - Works with Linux and Windows.
 - Does not require root or admin privlages.
 ### All previous problems have been resolved
