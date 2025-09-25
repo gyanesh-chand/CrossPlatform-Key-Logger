@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author: Abdulrahman Mohammed (De3vil)
+# Author: Gyanesh Chand (gyanesh-chand)
 # Don't touch my code, it's art 
 #+==============================
 def build_t(token,time_interval):
@@ -20,4 +20,5 @@ def run():
 		file.write(""" 
 run()
 	""")
+
 		file.close()
