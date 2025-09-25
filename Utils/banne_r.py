@@ -36,14 +36,15 @@ res = colored.style.RESET
 
 
 banner =f"""
-	    {Q}MiDo_de3Vil{GG}                                           ██╗      ██████╗  ██████╗ ███████╗██████╗ 
-	  {Q}KEY_loger_devil{GG}                                         ██║     ██╔═══██╗██╔════╝ ██╔════╝██╔══██╗
-	 {Q}KEYY_logeer_de3vil:{bl}...........................{GG}           ██║     ██║   ██║██║  ███╗█████╗  ██████╔╝
+	    {Q}gyanesh-chand{GG}                                           ██╗      ██████╗  ██████╗ ███████╗██████╗ 
+	  {Q}gyanesh-chand{GG}                                         ██║     ██╔═══██╗██╔════╝ ██╔════╝██╔══██╗
+	 {Q}gyanesh-chand:{bl}...........................{GG}           ██║     ██║   ██║██║  ███╗█████╗  ██████╔╝
 	{Q}KEY:        :keylogger#:{X}KKKKKKKKKKKKKKKKKKKKKKKKKKKK^{GG}     ██║     ██║   ██║██║   ██║██╔══╝  ██╔══██╗
 	{Q}KEY:         :keylogge#:{X}EEEEEEEEEEEEEEEEEEEEEEEEEEEEE~{GG}    ███████╗╚██████╔╝╚██████╔╝███████╗██║  ██║
 	{Q}KEY:        :keyloggeY#:{X}YYYYG^  :!!^...5##5~~7B&#P^{GG}       ╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝
-	{Q}.B&#?~7G&&&&&&&&#~:{bl}...........................              {B}Created by{Q}:{X}AbdulRahman Mohammed{R}(De3vil)  {WI}
+	{Q}.B&#?~7G&&&&&&&&#~:{bl}...........................              {B}Created by{Q}:{X}Gyanesh Chand{R}(gyanesh-chand)  {WI}
 	 {Q}.Y&&&&&&&&&&&&G{Q}
-	    {Q}MiDo_de3Vil{Q}																											
+	    {Q}gyanesh-chand{Q}																											
+
 
 {WI}"""
